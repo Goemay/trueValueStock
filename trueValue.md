@@ -37,3 +37,4 @@ Now you build the UI. Create the grid layout and design the individual "Stock Ca
 
 5. **Deployment & Hosting:** Putting it on your .my.id domain..
 Push the code to GitHub, set up a basic VPS (like DigitalOcean or a local Indonesian provider), configure the web server (Nginx), and point your personal domain to it.
+
